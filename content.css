@@ -16,4 +16,21 @@
 }
 #map {
     height: 100%;
+    
+ }
+ .business-table{
+     margin: auto;
+     width: 50%;
+ }
+ .contact-table{
+    margin: auto;
+    width: 50%;
+}
+ .label-right-space{
+     text-align: left;
+    
+ }
+ .answer-left-space{
+    text-align: right;
+   
  }
