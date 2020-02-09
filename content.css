@@ -1,0 +1,16 @@
+.content {
+    color: white;
+    background-color: rgba( 77, 0, 0, 1);
+    width: 95%;
+    margin: auto;
+    margin-bottom: 2%;
+    padding: 10%;
+
+}
+.businessHour {
+    text-align: center;
+}
+.main-contents{
+    text-align: center;
+    background-color: rgba(204, 0, 0, 0.2);
+}

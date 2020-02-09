@@ -1,0 +1,15 @@
+body{
+    background-color: #660000;
+}
+.navColor{
+    background-color: #1a0000;
+    
+}
+.nav-link-color{
+    color: white;
+}
+
+.nav-link-color:hover{
+    color: grey;
+    text-decoration: none;
+}
