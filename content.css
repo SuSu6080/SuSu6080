@@ -20,18 +20,18 @@
  }
  .business-table{
      margin: auto;
-     width: 50%;
+     width: 60%;
  }
  .contact-table{
     margin: auto;
-    width: 50%;
+    width: 80%;
 }
  .label-right-space{
-     text-align: left;
+     text-align: right;
     
  }
  .answer-left-space{
-    text-align: right;
+    text-align: left;
    
  }
 
